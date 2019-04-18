@@ -62,3 +62,14 @@ Some of them are **full** solutions (they pass all the test sets) and some are *
 [A-ForegoneSolution]:2019/QualificationRound/A-ForegoneSolution.cpp
 [B-YouCanGoYourOwnWay]:2019/QualificationRound/B-YouCanGoYourOwnWay.cpp
 [C-Cryptopangrams]:2019/QualificationRound/C-Cryptopangrams.py
+
+#### Round 1A
+
+- Problem A - [Pylons]: [A-Pylons] (practice / full)
+- Problem B - [Golf Gophers]: [B-GolfGophers] (practice / full)
+
+[Pylons]:https://codingcompetitions.withgoogle.com/codejam/round/0000000000051635/0000000000104e03
+[Golf Gophers]:https://codingcompetitions.withgoogle.com/codejam/round/0000000000051635/0000000000104f1a
+
+[A-Pylons]:2019/Round1A/A-Pylons.cpp
+[B-GolfGophers]:2019/Round1A/B-GolfGophers.cpp
