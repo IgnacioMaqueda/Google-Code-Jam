@@ -73,3 +73,28 @@ Some of them are **full** solutions (they pass all the test sets) and some are *
 
 [A-Pylons]:2019/Round1A/A-Pylons.cpp
 [B-GolfGophers]:2019/Round1A/B-GolfGophers.cpp
+
+#### Round 1B
+
+- Problem A - [Manhattan Crepe Cart]: [A-ManhattanCrepeCart] (practice / full)
+- Problem B - [Draupnir]: [B-Draupnir] (practice / partial)
+- Problem C - [Fair Fight]: [C-FairFight] (practice / partial)
+
+[Manhattan Crepe Cart]:https://codingcompetitions.withgoogle.com/codejam/round/0000000000051706/000000000012295c
+[Draupnir]:https://codingcompetitions.withgoogle.com/codejam/round/0000000000051706/0000000000122837
+[Fair Fight]:https://codingcompetitions.withgoogle.com/codejam/round/0000000000051706/0000000000122838
+
+[A-ManhattanCrepeCart]:2019/Round1B/A-ManhattanCrepeCart.cpp
+[B-Draupnir]:2019/Round1B/B-Draupnir.cpp
+[C-FairFight]:2019/Round1B/C-FairFight.cpp
+
+#### Round 1C
+
+- Problem A - [Robot Programming Strategy]: [A-RobotProgrammingStrategy] (contest / full)
+- Problem B - [Power Arrangers]: [B-PowerArrangers] (contest / partial)
+
+[Robot Programming Strategy]:https://codingcompetitions.withgoogle.com/codejam/round/00000000000516b9/0000000000134c90
+[Power Arrangers]:https://codingcompetitions.withgoogle.com/codejam/round/00000000000516b9/0000000000134e91
+
+[A-RobotProgrammingStrategy]:2019/Round1C/A-RobotProgrammingStrategy.cpp
+[B-PowerArrangers]:2019/Round1C/B-PowerArrangers.cpp
