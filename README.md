@@ -98,3 +98,22 @@ Some of them are **full** solutions (they pass all the test sets) and some are *
 
 [A-RobotProgrammingStrategy]:2019/Round1C/A-RobotProgrammingStrategy.cpp
 [B-PowerArrangers]:2019/Round1C/B-PowerArrangers.cpp
+
+### 2020
+
+#### Qualification Round
+
+- Problem A - [Vestigium]: [A-Vestigium] (contest / full)
+- Problem B - [Nesting Depth]: [B-NestingDepth] (contest / full)
+- Problem C - [Parenting Partnering Returns]: [C-ParentingPartneringReturns] (contest / full)
+- Problem D - [ESAb ATAd]: [D-ESAbATAd] (contest / partial)
+
+[Vestigium]:https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/000000000020993c
+[Nesting Depth]:https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/0000000000209a9f
+[Parenting Partnering Returns]:https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/000000000020bdf9
+[ESAb ATAd]:https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/0000000000209a9e
+
+[A-Vestigium]:2020/QualificationRound/A-Vestigium.cpp
+[B-NestingDepth]:2020/QualificationRound/B-NestingDepth.cpp
+[C-ParentingPartneringReturns]:2020/QualificationRound/C-ParentingPartneringReturns.cpp
+[D-ESAbATAd]:2020/QualificationRound/D-ESAbATAd.cpp
