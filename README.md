@@ -117,3 +117,14 @@ Some of them are **full** solutions (they pass all the test sets) and some are *
 [B-NestingDepth]:2020/QualificationRound/B-NestingDepth.cpp
 [C-ParentingPartneringReturns]:2020/QualificationRound/C-ParentingPartneringReturns.cpp
 [D-ESAbATAd]:2020/QualificationRound/D-ESAbATAd.cpp
+
+#### Round 1A
+
+- Problem A - [Pattern Matching]: [A-PatternMatching] (contest / partial)
+- Problem B - [Pascal Walk]: [B-PascalWalk] (contest / partial)
+
+[Pattern Matching]:https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd74/00000000002b3034
+[Pascal Walk]:https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd74/00000000002b1353
+
+[A-PatternMatching]:2020/Round1A/A-PatternMatching.cpp
+[B-PascalWalk]:2020/Round1A/B-PascalWalk.cpp
