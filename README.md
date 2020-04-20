@@ -128,3 +128,11 @@ Some of them are **full** solutions (they pass all the test sets) and some are *
 
 [A-PatternMatching]:2020/Round1A/A-PatternMatching.cpp
 [B-PascalWalk]:2020/Round1A/B-PascalWalk.cpp
+
+#### Round 1B
+
+- Problem A - [Expogo]: [A-Expogo] (contest / full)
+
+[Expogo]:https://codingcompetitions.withgoogle.com/codejam/round/000000000019fef2/00000000002d5b62
+
+[A-Expogo]:2020/Round1B/A-Expogo.cpp
