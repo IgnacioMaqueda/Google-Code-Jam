@@ -132,7 +132,13 @@ Some of them are **full** solutions (they pass all the test sets) and some are *
 #### Round 1B
 
 - Problem A - [Expogo]: [A-Expogo] (contest / full)
+- Problem B - [Blindfolded Bullseye]: [B-BlindfoldedBullseye] (practice / partial)
+- Problem C - [Join the Ranks]: [C-JoinTheRanks] (practice / partial)
 
 [Expogo]:https://codingcompetitions.withgoogle.com/codejam/round/000000000019fef2/00000000002d5b62
+[Blindfolded Bullseye]:https://codingcompetitions.withgoogle.com/codejam/round/000000000019fef2/00000000002d5b63
+[Join the Ranks]:https://codingcompetitions.withgoogle.com/codejam/round/000000000019fef2/00000000002d5b64
 
 [A-Expogo]:2020/Round1B/A-Expogo.cpp
+[B-BlindfoldedBullseye]:2020/Round1B/B-BlindfoldedBullseye.cpp
+[C-JoinTheRanks]:2020/Round1B/C-JoinTheRanks.cpp
