@@ -142,3 +142,17 @@ Some of them are **full** solutions (they pass all the test sets) and some are *
 [A-Expogo]:2020/Round1B/A-Expogo.cpp
 [B-BlindfoldedBullseye]:2020/Round1B/B-BlindfoldedBullseye.cpp
 [C-JoinTheRanks]:2020/Round1B/C-JoinTheRanks.cpp
+
+#### Round 1C
+
+- Problem A - [Overexcited Fan]: [A-OverexcitedFan] (contest / full)
+- Problem B - [Overrandomized]: [B-Overrandomized] (contest / full)
+- Problem C - [Oversized Pancake Choppers]: [C-OversizedPancakeChoppers] (contest / partial)
+
+[Overexcited Fan]:https://codingcompetitions.withgoogle.com/codejam/round/000000000019fef4/0000000000317409
+[Overrandomized]:https://codingcompetitions.withgoogle.com/codejam/round/000000000019fef4/00000000003179a1
+[Oversized Pancake Choppers]:https://codingcompetitions.withgoogle.com/codejam/round/000000000019fef4/00000000003172d1
+
+[A-OverexcitedFan]:2020/Round1C/A-OverexcitedFan.cpp
+[B-Overrandomized]:2020/Round1C/B-Overrandomized.cpp
+[C-OversizedPancakeChoppers]:2020/Round1C/C-OversizedPancakeChoppers.cpp
