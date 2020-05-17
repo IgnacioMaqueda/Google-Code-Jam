@@ -47,6 +47,14 @@ Some of them are **full** solutions (they pass all the test sets) and some are *
 
 [B-LollipopShop]:2018/Round1C/B-LollipopShop.py
 
+#### Round 2
+
+- Problem A - [Falling Balls]: [A-FallingBalls] (practice / full)
+
+[Falling Balls]:https://codingcompetitions.withgoogle.com/codejam/round/0000000000007706/00000000000459f2
+
+[A-FallingBalls]:2018/Round2/A-FallingBalls.cpp
+
 ### 2019
 
 #### Qualification Round
@@ -156,3 +164,11 @@ Some of them are **full** solutions (they pass all the test sets) and some are *
 [A-OverexcitedFan]:2020/Round1C/A-OverexcitedFan.cpp
 [B-Overrandomized]:2020/Round1C/B-Overrandomized.cpp
 [C-OversizedPancakeChoppers]:2020/Round1C/C-OversizedPancakeChoppers.cpp
+
+#### Round 2
+
+- Problem A - [Incremental House of Pancakes]: [A-IncrementalHouseOfPancakes] (contest / partial)
+
+[Incremental House of Pancakes]:https://codingcompetitions.withgoogle.com/codejam/round/000000000019ffb9/00000000003384ea
+
+[A-IncrementalHouseOfPancakes]:2020/Round2/A-IncrementalHouseOfPancakes.cpp
