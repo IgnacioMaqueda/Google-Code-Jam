@@ -12,12 +12,16 @@ Some of them are **full** solutions (they pass all the test sets) and some are *
 
 #### Practice Session
 
+- Problem A - [Number Guessing]: [A-NumberGuessing(Python)] (practice / full) / [A-NumberGuessing(C++)] (practice / full)
 - Problem B - [Senate Evacuation]: [B-SenateEvacuation] (contest / full)
 - Problem C - [Steed 2 Cruise Control]: [C-Steed2CruiseControl] (contest / full)
 
+[Number Guessing]:https://codingcompetitions.withgoogle.com/codejam/round/0000000000000130/0000000000000523
 [Senate Evacuation]:https://codingcompetitions.withgoogle.com/codejam/round/0000000000000130/00000000000004c0
 [Steed 2 Cruise Control]:https://codingcompetitions.withgoogle.com/codejam/round/0000000000000130/0000000000000524
 
+[A-NumberGuessing(Python)]:2018/PracticeSession/A-NumberGuessing.py
+[A-NumberGuessing(C++)]:2018/PracticeSession/A-NumberGuessing.cpp
 [B-SenateEvacuation]:2018/PracticeSession/B-SenateEvacuation.cpp
 [C-Steed2CruiseControl]:2018/PracticeSession/C-Steed2CruiseControl.cpp
 
@@ -172,3 +176,25 @@ Some of them are **full** solutions (they pass all the test sets) and some are *
 [Incremental House of Pancakes]:https://codingcompetitions.withgoogle.com/codejam/round/000000000019ffb9/00000000003384ea
 
 [A-IncrementalHouseOfPancakes]:2020/Round2/A-IncrementalHouseOfPancakes.cpp
+
+### 2021
+
+#### Qualification Round
+
+- Problem A - [Reversort]: [A-Reversort] (practice / full)
+- Problem B - [Moons and Umbrellas]: [B-MoonsAndUmbrellas] (practice / partial)
+- Problem C - [Reversort Engineering]: [C-ReversortEngineering] (practice / full)
+- Problem D - [Median Sort]: [D-MedianSort] (practice / partial)
+- Problem E - [Cheating Detection]: [E-CheatingDetection] (practice / partial)
+
+[Reversort]:https://codingcompetitions.withgoogle.com/codejam/round/000000000043580a/00000000006d0a5c
+[Moons and Umbrellas]:https://codingcompetitions.withgoogle.com/codejam/round/000000000043580a/00000000006d1145
+[Reversort Engineering]:https://codingcompetitions.withgoogle.com/codejam/round/000000000043580a/00000000006d12d7
+[Median Sort]:https://codingcompetitions.withgoogle.com/codejam/round/000000000043580a/00000000006d1284
+[Cheating Detection]:https://codingcompetitions.withgoogle.com/codejam/round/000000000043580a/00000000006d1155
+
+[A-Reversort]:2021/QualificationRound/A-Reversort.py
+[B-MoonsAndUmbrellas]:2021/QualificationRound/B-MoonsAndUmbrellas.py
+[C-ReversortEngineering]:2021/QualificationRound/C-ReversortEngineering.py
+[D-MedianSort]:2021/QualificationRound/D-MedianSort.py
+[E-CheatingDetection]:2021/QualificationRound/E-CheatingDetection.py
