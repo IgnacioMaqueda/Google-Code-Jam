@@ -198,3 +198,38 @@ Some of them are **full** solutions (they pass all the test sets) and some are *
 [C-ReversortEngineering]:2021/QualificationRound/C-ReversortEngineering.py
 [D-MedianSort]:2021/QualificationRound/D-MedianSort.py
 [E-CheatingDetection]:2021/QualificationRound/E-CheatingDetection.py
+
+#### Round 1A
+
+- Problem A - [Append Sort]: [A-AppendSort] (practice / full)
+
+[Append Sort]:https://codingcompetitions.withgoogle.com/codejam/round/000000000043585d/00000000007549e5
+
+[A-AppendSort]:2021/Round1A/A-AppendSort.py
+
+### 2022
+
+#### Qualification Round
+
+- Problem A - [Punched Cards]: [A-PunchedCards] (contest / full)
+- Problem B - [3D Printing]: [B-3DPrinting] (contest / full)
+- Problem C - [d1000000]: [C-d1000000] (contest / full)
+
+[Punched Cards]:https://codingcompetitions.withgoogle.com/codejam/round/0000000000876ff1/0000000000a4621b
+[3D Printing]:https://codingcompetitions.withgoogle.com/codejam/round/0000000000876ff1/0000000000a4672b
+[d1000000]:https://codingcompetitions.withgoogle.com/codejam/round/0000000000876ff1/0000000000a46471
+
+[A-PunchedCards]:2022/QualificationRound/A-PunchedCards.cpp
+[B-3DPrinting]:2022/QualificationRound/B-3DPrinting.py
+[C-d1000000]:2022/QualificationRound/C-d1000000.py
+
+#### Round 1A
+
+- Problem A - [Double or One Thing]: [A-DoubleOrOneThing] (contest / full)
+- Problem B - [Equal Sum]: [B-EqualSum] (contest / full)
+
+[Double or One Thing]:https://codingcompetitions.withgoogle.com/codejam/round/0000000000877ba5/0000000000aa8e9c
+[Equal Sum]:https://codingcompetitions.withgoogle.com/codejam/round/0000000000877ba5/0000000000aa8fc1
+
+[A-DoubleOrOneThing]:2022/Round1A/A-DoubleOrOneThing.cpp
+[B-EqualSum]:2022/Round1A/B-EqualSum.py
