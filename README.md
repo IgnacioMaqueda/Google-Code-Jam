@@ -233,3 +233,18 @@ Some of them are **full** solutions (they pass all the test sets) and some are *
 
 [A-DoubleOrOneThing]:2022/Round1A/A-DoubleOrOneThing.cpp
 [B-EqualSum]:2022/Round1A/B-EqualSum.py
+
+#### Round 1B
+
+- Problem A - [Pancake Deque]: [A-PancakeDeque] (contest / full)
+- Problem B - [Controlled Inflation]: [B-ControlledInflation(c)] (contest / partial) / [B-ControlledInflation(p)] (practice / full)
+- Problem C - [ASeDatAb]: [C-ASeDatAb] (contest / partial)
+
+[Pancake Deque]:https://codingcompetitions.withgoogle.com/codejam/round/000000000087711b/0000000000acd59d
+[Controlled Inflation]:https://codingcompetitions.withgoogle.com/codejam/round/000000000087711b/0000000000accfdb
+[ASeDatAb]:https://codingcompetitions.withgoogle.com/codejam/round/000000000087711b/0000000000acd29b
+
+[A-PancakeDeque]:2022/Round1B/A-PancakeDeque.py
+[B-ControlledInflation(c)]:2022/Round1B/B-ControlledInflation(c).py
+[B-ControlledInflation(p)]:2022/Round1B/B-ControlledInflation(p).py
+[C-ASeDatAb]:2022/Round1B/C-ASeDatAb.py
