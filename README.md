@@ -207,6 +207,20 @@ Some of them are **full** solutions (they pass all the test sets) and some are *
 
 [A-AppendSort]:2021/Round1A/A-AppendSort.py
 
+#### Round 1C
+
+- Problem A - [Closest Pick]: [A-ClosestPick] (practice / full)
+- Problem B - [Roaring Years]: [B-RoaringYears] (practice / partial)
+- Problem C - [Double or NOTing]: [C-DoubleOrNOTing] (practice / partial)
+
+[Closest Pick]:https://codingcompetitions.withgoogle.com/codejam/round/00000000004362d7/00000000007c0f00
+[Roaring Years]:https://codingcompetitions.withgoogle.com/codejam/round/00000000004362d7/00000000007c0f01
+[Double or NOTing]:https://codingcompetitions.withgoogle.com/codejam/round/00000000004362d7/00000000007c1139
+
+[A-ClosestPick]:2021/Round1C/A-ClosestPick.py
+[B-RoaringYears]:2021/Round1C/B-RoaringYears.py
+[C-DoubleOrNOTing]:2021/Round1C/C-DoubleOrNOTing.py
+
 ### 2022
 
 #### Qualification Round
@@ -248,3 +262,14 @@ Some of them are **full** solutions (they pass all the test sets) and some are *
 [B-ControlledInflation(c)]:2022/Round1B/B-ControlledInflation(c).py
 [B-ControlledInflation(p)]:2022/Round1B/B-ControlledInflation(p).py
 [C-ASeDatAb]:2022/Round1B/C-ASeDatAb.py
+
+#### Round 1C
+
+- Problem A - [Letter Blocks]: [A-LetterBlocks] (contest / full)
+- Problem B - [Squary]: [B-Squary] (contest / partial)
+
+[Letter Blocks]:https://codingcompetitions.withgoogle.com/codejam/round/0000000000877b42/0000000000afe6a1
+[Squary]:https://codingcompetitions.withgoogle.com/codejam/round/0000000000877b42/0000000000afdf76
+
+[A-LetterBlocks]:2022/Round1C/A-LetterBlocks.cpp
+[B-Squary]:2022/Round1C/B-Squary.py
